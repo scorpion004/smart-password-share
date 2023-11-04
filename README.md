@@ -27,3 +27,9 @@ Steps
 ```
 
 Please check the main.py file for reference
+
+
+## Support
+
+For support, email shuvasis.sarkar@gmail.com.
+
